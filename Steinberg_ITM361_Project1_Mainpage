@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+		<title>Steinberg Project 1</title>
+</head>
+<body>
+	<h1>Welcome to Steinberg's Project 1 homepage</h1>
+	</h2>About me</h2>
+	<p>As this project grows you will learn more about myself and my interests at IIT. 
+	More to come in the future.</p>
+	<h2>Contents</h2>
+	<ol>
+		<li>Academic Hisory</li>
+		<li>Work History</li>
+</body>
+</html>

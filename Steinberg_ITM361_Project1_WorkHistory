@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+		<title>Steinberg - Work History</title>
+</head>
+<body>
+	<h1>Work History</h1>
+	<h3>Chronological Order</h3>
+	<ul>
+		<li>Cinemark, Seven Bridges (2001-2003)</li>
+		<li>United States Air Force (2003-2015)</li>
+			<ul>
+				<li>Pope AFB, North Carolina (2003-2006)</li>
+				<li>Ramstein AB, Germany (2006-2008)</li>
+				<li>Offutt AFB, Nebraska (2008-2011)</li>
+				<li>Misawa AB, Japan (2011-2013)</li>
+				<li>Sydney International Airport, Australia (2013-2015)</li>
+			</ul>
+		<li>Form 10 Group, IT Consultant (2016)</li>
+		<li>IFPC Worldwide Security (2016-present)</li>
+		<li>Private Investigator, Independent (2016-present)</li>
+	</ul>
+</body>
+</html>
+
+	
